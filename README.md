@@ -1,2 +1,5 @@
-# gormanajemen
- Manajemen Penyawaan Lapangan Futsal
+# Gedung Olahraga Manajemen Penyewaan
+ Manajemen Penyewaan Lapangan Futsal
+
+ ## Developed by
+ ekoaprilianto925@gmail.com 
